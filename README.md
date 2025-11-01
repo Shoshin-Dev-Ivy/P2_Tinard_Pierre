@@ -17,7 +17,9 @@ Chaque carte d’hébergement ou d’activité devra être cliquable dans son in
 Pour l’instant les liens seront vides.
 
 Les filtres ne seront pas fonctionnels pour cette version, en revanche, il faut qu’ils changent
-d’apparence au survol: choisir l’effet le plus approprié.
+d’apparence au survol:
+
+choisir l’effet le plus approprié.
 
 Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener
 aux sections de la page.
@@ -26,7 +28,9 @@ aux sections de la page.
 Adapter la maquette en format: desktop / mobile/ tablette.
 
 Faire les adaptations nécessaires avec la mise en page, tant qu’aucun élément n’est coupé et que le texte
-a une taille suffisante: choisir les breakpoints appropriés.
+a une taille suffisante:
+
+choisir les breakpoints appropriés.
 
 Choisir le format d’image le plus adapté par rapport à la résolution et au temps de chargement.
 
@@ -48,7 +52,7 @@ Séparer le HTML et le CSS et à organiser ton dossier de rendu.
 
 Versionner le code avec Git, et ce dès les premières lignes de code.
 
-Déployer la page sur GitHub Pages ou GitLab Pages comme tu préfères.
+Déployer la page sur GitHub Pages ou GitLab Pages: au choix...
 
 ## Lancement de la page: ##
 Clique droit sur la page index.html => open with Live Server.
