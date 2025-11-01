@@ -1,7 +1,7 @@
-# P2_Reservia #
+# P2_Réservia #
 
 ## Contexte: ##
-Transformer une maquette en site web.
+Transformer une maquette en page web.
 
 Intégrer la maquette responsive en HTML et CSS.
 
@@ -25,7 +25,7 @@ Dans le menu, les liens “Hébergements” et “Activités” sont des ancres 
 aux sections de la page.
 
 ## Contraintes techniques: ##
-Adapter la maquette en format: desktop / mobile/ tablette.
+Adapter la maquette en format: desktop / mobile / tablette.
 
 Faire les adaptations nécessaires avec la mise en page, tant qu’aucun élément n’est coupé et que le texte
 a une taille suffisante:
@@ -46,15 +46,27 @@ Utiliser un éditeur de code:  Visual Studio Code, et des plugins: (exemple Live
 Le code devra utiliser les balises sémantiques et ne doit contenir aucune erreur ni alerte
 au validateur W3C HTML et CSS.
 
-Le site devra être compatible avec les dernières versions de Chrome et Firefox.
+La page devra être compatible avec les dernières versions de Chrome et Firefox.
 
-Séparer le HTML et le CSS et à organiser ton dossier de rendu.
+Séparer le HTML et le CSS et organiser ton dossier de rendu.
 
 Versionner le code avec Git, et ce dès les premières lignes de code.
 
 Déployer la page sur GitHub Pages ou GitLab Pages: au choix...
 
-## Lancement de la page: ##
-Clique droit sur la page index.html => open with Live Server.
+## Intallation du projet en local et Lancement de la page Réservia: ##
+Sur le repository P2_Tinard_Pierre, cliquez sur < > code => (copy url to clipboard):
 
-Index.html ouvert sur le port 5500.
+https://github.com/Shoshin-Dev-Ivy/P2_Tinard_Pierre.git
+
+Dans un éditeur de code, (exemple: VS CODE), ouvrez un terminal:
+
+cd Documents: git clone https://github.com/Shoshin-Dev-Ivy/P2_Tinard_Pierre.git
+
+Ensuite open folder => P2_Tinard_Pierre
+
+Ciblez index.html.
+
+Click droit sur la page index.html => open with Live Server.
+
+Index.html ouvert sur le port 5500 => http://127.0.0.1:5500/index.html
