@@ -48,13 +48,13 @@ au validateur W3C HTML et CSS.
 
 La page devra être compatible avec les dernières versions de Chrome et Firefox.
 
-Séparer le HTML et le CSS et organiser ton dossier de rendu.
+Séparer HTML et CSS.
 
 Versionner le code avec Git, et ce dès les premières lignes de code.
 
 Déployer la page sur GitHub Pages ou GitLab Pages: au choix...
 
-## Intallation du projet en local et Lancement de la page Réservia: ##
+## Intallation du projet en local et lancement de la page Réservia: ##
 Sur le repository P2_Tinard_Pierre, cliquez sur < > code => (copy url to clipboard):
 
 https://github.com/Shoshin-Dev-Ivy/P2_Tinard_Pierre.git
