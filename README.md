@@ -1,4 +1,4 @@
-# Reservia #
+# P2_Reservia #
 
 ## Contexte: ##
 Transformer une maquette en site web.
